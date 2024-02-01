@@ -54,11 +54,11 @@ Submission Anda akan dinilai oleh reviewer dengan skala 1-5 berdasarkan dari par
 
 | Penilaian | Deskripsi |
 | --- | --- |
-| ![rating-default-1](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/e871ca3d-5515-4bd4-a484-57e7f08ca5d0) | Semua ketentuan terpenuhi, namun terdapat indikasi plagiat yaitu dengan menggunakan project orang lain dan hanya merubah kontennya saja. |
-| ![rating-default-2](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/4982fc8d-85be-4914-ae92-921b9edbfea6) | Semua ketentuan terpenuhi, namun terdapat kekurangan pada tampilan aplikasi. |
-| ![rating-default-3](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/0f6e7b33-1ba4-4e3b-849b-35d189c91d68) | Semua ketentuan wajib terpenuhi, namun tidak terdapat improvisasi atau persyaratan opsional yang dipenuhi. |
-| ![rating-default-4](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/2c3aba1b-471b-48a5-a509-041a98d8db7f) | Semua ketentuan terpenuhi dan menerapkan tiga saran di atas. |
-| ![rating-default-5](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/01227334-0d4c-4960-abb8-1a8730cda196) | Semua ketentuan terpenuhi dan menerapkan semua saran di atas. |
+| ![rating-default-1](https://github.com/robbyyehezkiel/Dicoding-Android-Fundamental/assets/107051384/8a625713-034a-4758-8b41-c81539e6fcae) | Semua ketentuan terpenuhi, namun terdapat indikasi plagiat yaitu dengan menggunakan project orang lain dan hanya merubah kontennya saja. |
+| ![rating-default-2](https://github.com/robbyyehezkiel/Dicoding-Android-Fundamental/assets/107051384/0e11ca8f-d1f8-4454-b5d7-4efdc6357ef7) | Semua ketentuan terpenuhi, namun terdapat kekurangan pada tampilan aplikasi. |
+| ![rating-default-3](https://github.com/robbyyehezkiel/Dicoding-Android-Fundamental/assets/107051384/fb706ca0-34f1-4a99-9483-197b2778544c) | Semua ketentuan wajib terpenuhi, namun tidak terdapat improvisasi atau persyaratan opsional yang dipenuhi. |
+| ![rating-default-4](https://github.com/robbyyehezkiel/Dicoding-Android-Fundamental/assets/107051384/30018266-ba2e-449b-8435-d8e6bded3787) | Semua ketentuan terpenuhi dan menerapkan tiga saran di atas. |
+| ![rating-default-5](https://github.com/robbyyehezkiel/Dicoding-Android-Fundamental/assets/107051384/72a79b6f-59b6-489f-a183-6d3fe4605e7d) | Semua ketentuan terpenuhi dan menerapkan semua saran di atas. |
 
 Anda dapat menerapkan beberapa saran di bawah ini untuk mendapatkan nilai tinggi, berikut sarannya:
 
