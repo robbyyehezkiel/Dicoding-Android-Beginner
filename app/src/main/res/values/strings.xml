@@ -1,0 +1,132 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Android Beginner</string>
+
+    <!-- Page Titles -->
+    <string name="main_page_title">Main Page</string>
+    <string name="about_page_title">About Page</string>
+    <string name="log_tag_detail_activity">DetailActivityLog</string>
+    <string name="language">Change Language</string>
+
+    <!-- Profile Information -->
+    <string name="profile_name">Veronica Kim</string>
+    <string name="profile_email">veronica@gmail.com</string>
+
+    <!-- Descriptions -->
+    <string name="description">Image Description</string>
+    <string name="photo_description">Item Photo</string>
+    <string name="organization_description_hint">Organization Description</string>
+    <string name="social_media_title">Himasi Social Media</string>
+
+    <!-- Arrays -->
+    <integer-array name="organization_ids">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </integer-array>
+
+    <string-array name="organization_names">
+        <item>Organization Management</item>
+        <item>Business Funds</item>
+        <item>Interest Talent</item>
+        <item>Media Information</item>
+        <item>Member Resources</item>
+        <item>Public Relation</item>
+        <item>Research Technology</item>
+        <item>Social Religion</item>
+        <item>Information System</item>
+        <item>Jambi University</item>
+    </string-array>
+
+    <array name="organization_icons">
+        <item>@drawable/icon_organization_management</item>
+        <item>@drawable/icon_business_funds</item>
+        <item>@drawable/icon_interest_talent</item>
+        <item>@drawable/icon_media_information</item>
+        <item>@drawable/icon_member_resources</item>
+        <item>@drawable/icon_public_relation</item>
+        <item>@drawable/icon_research_technology</item>
+        <item>@drawable/icon_social_religion</item>
+        <item>@drawable/icon_information_system</item>
+        <item>@drawable/icon_jambi_university</item>
+    </array>
+
+    <array name="organization_photos">
+        <item>@drawable/div_organization_management</item>
+        <item>@drawable/div_business_funds</item>
+        <item>@drawable/div_interest_talent</item>
+        <item>@drawable/div_media_information</item>
+        <item>@drawable/div_member_resources</item>
+        <item>@drawable/div_public_relation</item>
+        <item>@drawable/div_research_technology</item>
+        <item>@drawable/div_social_religion</item>
+        <item>@drawable/div_information_system</item>
+        <item>@drawable/div_jambi_university</item>
+    </array>
+
+    <string-array name="organization_leaders">
+        <item>Eastyanda P. K.</item>
+        <item>Ragyl M. H.</item>
+        <item>Saddam H.</item>
+        <item>Natasya Y. K.</item>
+        <item>Delvit A.</item>
+        <item>Valleza J. A.</item>
+        <item>Sahdan W.</item>
+        <item>Rahmad A.</item>
+        <item>Program Coordinator</item>
+        <item>Rectorate</item>
+    </string-array>
+
+    <array name="organization_colors">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+        <item>@color/color5</item>
+        <item>@color/color6</item>
+        <item>@color/color7</item>
+        <item>@color/color8</item>
+        <item>@color/color9</item>
+        <item>@color/color10</item>
+    </array>
+
+    <string-array name="organization_descriptions">
+        <item>Organization Management is led by Eastyanda Putra Kesuma as the Chairman, assisted by Muhammad Kevin Assydiqi as the Vice Chairman. The secretarial duties are undertaken by Santa Aprilia Simanungkalit as Secretary 1, Jihan Rahman as Secretary 2, and Hana Silvanov Rhamadani as Secretary 3. Meanwhile, the organizations finances are managed by Morenita Aritonang as Treasurer 1 and Jessyca Sandra Yulina S as Treasurer 2. With this structure, it is expected that each member can contribute optimally to achieve the organizations goals.</item>
+        <item>The DANUS Division is the newest division under the auspices of the Treasurer within HIMASI. This division operates in the field of entrepreneurship within the association, continuously channeling its innovations by marketing products specifically to consumers, particularly Information System students, to supplement HIMASIs financial income. The DANUS Division also collaborates with the Mediation Division in planning creative products that will be marketed through the IG SIStore with the username "sistore.unja."</item>
+        <item>The Interest and Talent Division is dedicated to discovering, identifying, and cataloging the interests and talents of information system students. It serves as a platform for students to channel and express their interests and talents.</item>
+        <item>The Mediation Division operates in the field of disseminating information based on creative design, covering internal campus events and information resulting from collaborations with other campuses. In addition to spreading information about lectures, this division also collaborates with the Business Fund Division (DANUS) in designing creative products that can be sold by the DANUS division.</item>
+        <item>The PSDA Division is responsible for developing the interests and talents of members of the Information System. The PSDA Division is also tasked with creating a better ecosystem for the Information System by paying attention to the talents present in the information system.</item>
+        <item>The Public Relations Division, commonly known as the HUMAS Division, aims to build networks or relationships with external parties outside the membership and management of HIMASI. It also assists other divisions in implementing their respective programs and projects.</item>
+        <item>The Research and Technology Division is one of the divisions with the goal of developing the abilities of Information System students and providing a platform to help Information System students achieve excellence while fostering a scientific culture in the student community.</item>
+        <item>The Social and Religion Division (SOSGAM) operates in the fields of social and religion. In the social domain, it serves as a platform that deals with matters related to social interests, ranging from the scope of HIMASI management to the wider community. Meanwhile, in the religious field, it manifests as an expression of students sensitivity to the importance of religious obedience within an organization. This division oversees religious activities to shape the personality of students who are faithful and devout, both internally and externally.</item>
+        <item>The Information Systems study program is one of the undergraduate programs under the auspices of the Faculty of Science and Technology at the University of Jambi. This program is designed to meet the needs of skilled and professional personnel in the field of information systems.</item>
+        <item>Jambi University (UNJA) is a public higher education institution located in the province of Jambi, Indonesia. It was established on March 23, 1963, under the leadership of Colonel M. Joesoef Singedekane as the chairman of the presidium, and it was later led by its first rector, Prof. Drs. H. Kemas Mohamad Saleh, in 1977. The current rector is Prof. Drs. H. Sutrisno, M.Sc., Ph.D</item>
+    </string-array>
+
+    <integer-array name="organization_members">
+        <item>7</item>
+        <item>11</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>11</item>
+        <item>12</item>
+        <item>12</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+
+    <!-- Labels -->
+    <string name="coordinator_label">Coordinator</string>
+    <string name="member_label">Member</string>
+
+    <!-- Placeholder text -->
+    <string name="hello_text">Hello</string>
+</resources>
