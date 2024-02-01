@@ -1,4 +1,4 @@
-![detail info](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/ece0489c-bebd-45b9-b09c-af48ec1d0bd6)# Dicoding-Android-Beginner
+# Dicoding-Android-Beginner
 Dicoding Android Beginner adalah aplikasi yang harus disubmit dalam menyelesaikan kelas [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51)
 Kelas ini ditujukan bagi pemula yang ingin memulai karirnya di bidang Android Developer dengan mengacu pada standar kompetensi internasional milik Google. Di akhir kelas, siswa dapat membuat aplikasi Android yang dapat menampilkan list dan detail data. 
 
