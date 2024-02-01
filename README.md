@@ -7,7 +7,7 @@ Kelas ini ditujukan bagi pemula yang ingin memulai karirnya di bidang Android De
 <img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/33993a52-ab55-468f-8f39-d03020e13f3e" alt="Screenshot_20231228_234336" width="250">   
 <img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/bed23fd0-efa9-4a68-837c-f74fec7e3d8d" alt="Screenshot_20231228_234319" width="250">
 
-## Petunjuk Instalasi
+## PETUNJUK INSTALASI
 1. Kloning Repositori::
    - Buka terminal atau command prompt di komputer lokal Anda.
    - Gunakan perintah **git clone** diikuti dengan URL yang telah Anda salin.
@@ -26,7 +26,7 @@ Kelas ini ditujukan bagi pemula yang ingin memulai karirnya di bidang Android De
 8. Atau, Gunakan Emulator:<br>
    Jika Anda tidak memiliki perangkat fisik, Anda dapat menggunakan Emulator Android yang disediakan oleh Android Studio. Cukup buat perangkat virtual menggunakan AVD Manager dan jalankan aplikasi di emulator.
 
-## KRITERIA SUBMISSION AKHIR APLIKASI
+## KRITERIA SUBMISSION APLIKASI
 
 1. **Halaman Utama**<br>
    Syarat:
