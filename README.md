@@ -3,9 +3,9 @@ Dicoding Android Beginner adalah aplikasi yang harus disubmit dalam menyelesaika
 Kelas ini ditujukan bagi pemula yang ingin memulai karirnya di bidang Android Developer dengan mengacu pada standar kompetensi internasional milik Google. Di akhir kelas, siswa dapat membuat aplikasi Android yang dapat menampilkan list dan detail data. 
 
 ## SCREENSHOT!
-<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/fc4aef4a-2149-481e-9818-9b4ca667b3cc" alt="Screenshot_20231228_234319" width="200">
-<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/33993a52-ab55-468f-8f39-d03020e13f3e" alt="Screenshot_20231228_234336" width="200">
-<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/bed23fd0-efa9-4a68-837c-f74fec7e3d8d" alt="Screenshot_20231228_234319" width="200">
+<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/fc4aef4a-2149-481e-9818-9b4ca667b3cc" alt="Screenshot_20231228_234319" width="300">   
+<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/33993a52-ab55-468f-8f39-d03020e13f3e" alt="Screenshot_20231228_234336" width="300">   
+<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/bed23fd0-efa9-4a68-837c-f74fec7e3d8d" alt="Screenshot_20231228_234319" width="300">
 
 ## Petunjuk Instalasi
 1. Kloning Repositori::
