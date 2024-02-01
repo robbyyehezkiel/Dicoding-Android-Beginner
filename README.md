@@ -8,7 +8,7 @@ Kelas ini ditujukan bagi pemula yang ingin memulai karirnya di bidang Android De
 <img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/bed23fd0-efa9-4a68-837c-f74fec7e3d8d" alt="Screenshot_20231228_234319" width="250">
 
 ## PETUNJUK INSTALASI
-1. Kloning Repositori::
+1. Kloning Repositori:
    - Buka terminal atau command prompt di komputer lokal Anda.
    - Gunakan perintah **git clone** diikuti dengan URL yang telah Anda salin.
      ```
