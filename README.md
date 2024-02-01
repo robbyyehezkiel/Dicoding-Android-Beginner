@@ -1,11 +1,11 @@
-# Dicoding-Android-Beginner
+![detail info](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/ece0489c-bebd-45b9-b09c-af48ec1d0bd6)# Dicoding-Android-Beginner
 Dicoding Android Beginner adalah aplikasi yang harus disubmit dalam menyelesaikan kelas [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51)
 Kelas ini ditujukan bagi pemula yang ingin memulai karirnya di bidang Android Developer dengan mengacu pada standar kompetensi internasional milik Google. Di akhir kelas, siswa dapat membuat aplikasi Android yang dapat menampilkan list dan detail data. 
 
 ## SCREENSHOT!
-<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/d7b3ff67-fb66-4949-94a3-5de9d85d31c0" alt="Screenshot_20231228_234319" width="200">
-<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/f6054398-d4a9-49f0-baba-c99eb046e51d" alt="Screenshot_20231228_234336" width="200">
-<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/7a052171-1006-47aa-808e-e86018e39372" alt="Screenshot_20231228_234343" width="200">
+<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/fc4aef4a-2149-481e-9818-9b4ca667b3cc" alt="Screenshot_20231228_234319" width="200">
+<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/33993a52-ab55-468f-8f39-d03020e13f3e" alt="Screenshot_20231228_234336" width="200">
+<img src="https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/bed23fd0-efa9-4a68-837c-f74fec7e3d8d" alt="Screenshot_20231228_234319" width="200">
 
 ## Petunjuk Instalasi
 1. Kloning Repositori::
