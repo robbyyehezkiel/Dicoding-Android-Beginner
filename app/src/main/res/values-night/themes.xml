@@ -5,6 +5,11 @@
         <!-- Customize your dark theme here -->
         <item name="colorPrimary">@color/my_dark_primary</item>
         <item name="colorOnPrimary">@color/my_dark_on_primary</item>
-        <!-- Other dark theme customizations -->
+        <item name="colorSecondary">@color/my_dark_secondary</item>
+        <item name="colorOnSecondary">@color/my_dark_on_secondary</item>
+        <item name="colorSurface">@color/my_dark_surface</item>
+        <item name="colorOnSurface">@color/my_dark_on_surface</item>
+        <item name="colorError">@color/my_dark_error</item>
+        <item name="colorOnError">@color/my_dark_on_error</item>
     </style>
 </resources>

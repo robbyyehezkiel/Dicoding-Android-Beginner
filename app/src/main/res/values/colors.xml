@@ -4,23 +4,24 @@
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
 
-    <!-- Primary colors -->
-    <color name="my_light_primary">#1976D2</color>         <!-- Blue -->
-    <color name="my_dark_primary">#0D47A1</color>          <!-- Darker Blue -->
-    <color name="my_light_on_primary">#FFFFFF</color>      <!-- White text on light primary -->
-    <color name="my_dark_on_primary">#FFFFFF</color>       <!-- White text on dark primary -->
+    <color name="my_light_primary">#1E88E5</color> <!-- New Primary Color -->
+    <color name="my_light_on_primary">#FFFFFF</color> <!-- On Primary Color -->
+    <color name="my_light_secondary">#03DAC6</color>
+    <color name="my_light_on_secondary">#000000</color>
+    <color name="my_light_surface">#FFFFFF</color>
+    <color name="my_light_on_surface">#000000</color>
+    <color name="my_light_error">#B00020</color>
+    <color name="my_light_on_error">#FFFFFF</color>
 
-    <!-- Secondary colors -->
-    <color name="my_light_secondary">#FFC107</color>           <!-- Darker Amber -->
-    <color name="my_light_on_secondary">#000000</color>     <!-- Black text on light secondary -->
 
-    <!-- Surface and background colors -->
-    <color name="my_light_surface">#FFFFFF</color>          <!-- White surface -->
-    <color name="my_light_on_surface">#000000</color>       <!-- Black text on light surface -->
-
-    <!-- Error colors -->
-    <color name="my_light_error">#FF0000</color>            <!-- Red for errors -->
-    <color name="my_light_on_error">#FFFFFF</color>         <!-- White text on light error -->
+    <color name="my_dark_primary">#1E88E5</color> <!-- New Primary Color -->
+    <color name="my_dark_on_primary">#FFFFFF</color> <!-- On Primary Color -->
+    <color name="my_dark_secondary">#03DAC6</color>
+    <color name="my_dark_on_secondary">#000000</color>
+    <color name="my_dark_surface">#121212</color>
+    <color name="my_dark_on_surface">#FFFFFF</color>
+    <color name="my_dark_error">#CF6679</color>
+    <color name="my_dark_on_error">#000000</color>
 
     <!-- Additional colors -->
     <color name="color1">#FF5733</color>                    <!-- Orange -->
