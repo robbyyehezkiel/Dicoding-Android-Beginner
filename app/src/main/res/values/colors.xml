@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Base colors -->
     <color name="black">#000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="color1">#FF5733</color>
-    <color name="color2">#3399FF</color>
-    <color name="color3">#99CC33</color>
-    <color name="color4">#FF9933</color>
-    <color name="color5">#FF3366</color>
-    <color name="color6">#6699FF</color>
-    <color name="color7">#FFCC00</color>
-    <color name="color8">#66CC99</color>
-    <color name="color9">#8166CC</color>
-    <color name="color10">#CC66B3</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Primary colors -->
+    <color name="my_light_primary">#1976D2</color>         <!-- Blue -->
+    <color name="my_dark_primary">#0D47A1</color>          <!-- Darker Blue -->
+    <color name="my_light_on_primary">#FFFFFF</color>      <!-- White text on light primary -->
+    <color name="my_dark_on_primary">#FFFFFF</color>       <!-- White text on dark primary -->
+
+    <!-- Secondary colors -->
+    <color name="my_light_secondary">#FFC107</color>           <!-- Darker Amber -->
+    <color name="my_light_on_secondary">#000000</color>     <!-- Black text on light secondary -->
+
+    <!-- Surface and background colors -->
+    <color name="my_light_surface">#FFFFFF</color>          <!-- White surface -->
+    <color name="my_light_on_surface">#000000</color>       <!-- Black text on light surface -->
+
+    <!-- Error colors -->
+    <color name="my_light_error">#FF0000</color>            <!-- Red for errors -->
+    <color name="my_light_on_error">#FFFFFF</color>         <!-- White text on light error -->
+
+    <!-- Additional colors -->
+    <color name="color1">#FF5733</color>                    <!-- Orange -->
+    <color name="color2">#3399FF</color>                    <!-- Light Blue -->
+    <color name="color3">#99CC33</color>                    <!-- Lime Green -->
+    <color name="color4">#FF9933</color>                    <!-- Dark Orange -->
+    <color name="color5">#FF3366</color>                    <!-- Pink -->
+    <color name="color6">#6699FF</color>                    <!-- Medium Blue -->
+    <color name="color7">#FFCC00</color>                    <!-- Yellow -->
+    <color name="color8">#66CC99</color>                    <!-- Sea Green -->
+    <color name="color9">#8166CC</color>                    <!-- Purple -->
+    <color name="color10">#CC66B3</color>                   <!-- Light Purple -->
 </resources>

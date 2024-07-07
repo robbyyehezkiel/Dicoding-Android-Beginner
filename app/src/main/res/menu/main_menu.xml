@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- res/menu/menu_main.xml -->
+<?xml version="1.0" encoding="utf-8"?><!-- res/menu/menu_main.xml -->
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/about_page"
-        android:title="About Page"/>
+        android:iconTint="@color/black"
+        android:title="@string/about_page" />
     <!-- Add other menu items if needed -->
 </menu>

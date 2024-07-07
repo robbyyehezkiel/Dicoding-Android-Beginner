@@ -5,8 +5,7 @@
     <!-- Judul Halaman -->
     <string name="main_page_title">Halaman Utama</string>
     <string name="about_page_title">Halaman Tentang</string>
-    <string name="log_tag_detail_activity">AktivitasDetailLog</string>
-    <string name="language">Ganti Bahasa</string>
+    <string name="language">Ubah Bahasa</string>
 
     <!-- Informasi Profil -->
     <string name="profile_name">Veronica Kim</string>
@@ -16,9 +15,9 @@
     <string name="description">Deskripsi Gambar</string>
     <string name="photo_description">Foto Item</string>
     <string name="organization_description_hint">Deskripsi Organisasi</string>
-    <string name="social_media_title">Media Sosial Himasi</string>
+    <string name="social_media_title">Media Sosial HIMASI</string>
 
-    <!-- Array -->
+    <!-- Arrays -->
     <integer-array name="organization_ids">
         <item>1</item>
         <item>2</item>
@@ -35,12 +34,12 @@
     <string-array name="organization_names">
         <item>Manajemen Organisasi</item>
         <item>Dana Bisnis</item>
-        <item>Bakat dan Minat</item>
+        <item>Minat dan Bakat</item>
         <item>Informasi Media</item>
         <item>Sumber Daya Anggota</item>
-        <item>Hubungan Publik</item>
+        <item>Hubungan Masyarakat</item>
         <item>Penelitian dan Teknologi</item>
-        <item>Sosial dan Agama</item>
+        <item>Sosial dan Keagamaan</item>
         <item>Sistem Informasi</item>
         <item>Universitas Jambi</item>
     </string-array>
@@ -57,6 +56,7 @@
         <item>@drawable/icon_information_system</item>
         <item>@drawable/icon_jambi_university</item>
     </array>
+
     <array name="organization_photos">
         <item>@drawable/div_organization_management</item>
         <item>@drawable/div_business_funds</item>
@@ -97,16 +97,16 @@
     </array>
 
     <string-array name="organization_descriptions">
-        <item>Manajemen Organisasi dipimpin oleh Eastyanda Putra Kesuma sebagai Ketua, dibantu oleh Muhammad Kevin Assydiqi sebagai Wakil Ketua. Tugas sekretaris dijalankan oleh Santa Aprilia Simanungkalit sebagai Sekretaris 1, Jihan Rahman sebagai Sekretaris 2, dan Hana Silvanov Rhamadani sebagai Sekretaris 3. Sementara itu, keuangan organisasi dikelola oleh Morenita Aritonang sebagai Bendahara 1 dan Jessyca Sandra Yulina S sebagai Bendahara 2. Dengan struktur ini, diharapkan setiap anggota dapat berkontribusi secara optimal untuk mencapai tujuan organisasi.</item>
-        <item>Divisi DANUS adalah divisi terbaru di bawah naungan Bendahara dalam HIMASI. Divisi ini beroperasi di bidang kewirausahaan dalam asosiasi, terus menerus mengalirkan inovasinya dengan memasarkan produk khusus kepada konsumen, khususnya mahasiswa Sistem Informasi, untuk melengkapi pendapatan keuangan HIMASI. Divisi DANUS juga berkolaborasi dengan Divisi Mediasi dalam merencanakan produk kreatif yang akan dipasarkan melalui IG SIStore dengan nama pengguna "sistore.unja."</item>
-        <item>Divisi Bakat dan Minat didedikasikan untuk menemukan, mengidentifikasi, dan mendokumentasikan minat dan bakat mahasiswa sistem informasi. Ini berfungsi sebagai platform bagi mahasiswa untuk menyalurkan dan mengekspresikan minat dan bakat mereka.</item>
-        <item>Divisi Mediasi beroperasi di bidang penyebaran informasi berdasarkan desain kreatif, mencakup acara internal kampus dan informasi yang dihasilkan dari kerjasama dengan kampus lain. Selain menyebarkan informasi tentang kuliah, divisi ini juga berkolaborasi dengan Divisi Dana Bisnis (DANUS) dalam merancang produk kreatif yang dapat dijual oleh divisi DANUS.</item>
-        <item>Divisi PSDA bertanggung jawab untuk mengembangkan minat dan bakat anggota Sistem Informasi. Divisi PSDA juga bertugas untuk menciptakan ekosistem yang lebih baik bagi Sistem Informasi dengan memperhatikan bakat yang ada dalam sistem informasi.</item>
-        <item>Divisi Hubungan Publik, biasa disebut sebagai Divisi HUMAS, bertujuan untuk membangun jaringan atau hubungan dengan pihak eksternal di luar keanggotaan dan manajemen HIMASI. Ini juga membantu divisi lain dalam melaksanakan program dan proyek masing-masing.</item>
-        <item>Divisi Penelitian dan Teknologi adalah salah satu divisi dengan tujuan mengembangkan kemampuan mahasiswa Sistem Informasi dan menyediakan platform untuk membantu mahasiswa Sistem Informasi mencapai keunggulan sambil memupuk budaya ilmiah di komunitas mahasiswa.</item>
-        <item>Divisi Sosial dan Agama (SOSGAM) beroperasi di bidang sosial dan agama. Di domain sosial, ini berfungsi sebagai platform yang menangani masalah terkait minat sosial, mulai dari lingkup manajemen HIMASI hingga masyarakat luas. Sementara itu, di bidang agama, ini menjadi ekspresi sensitivitas mahasiswa terhadap pentingnya ketaatan beragama dalam sebuah organisasi. Divisi ini mengawasi kegiatan keagamaan untuk membentuk kepribadian mahasiswa yang beriman dan taat, baik secara internal maupun eksternal.</item>
-        <item>Program studi Sistem Informasi adalah salah satu program sarjana di bawah naungan Fakultas Ilmu dan Teknologi di Universitas Jambi. Program ini dirancang untuk memenuhi kebutuhan personel terampil dan profesional di bidang sistem informasi.</item>
-        <item>Universitas Jambi (UNJA) adalah lembaga pendidikan tinggi negeri yang terletak di provinsi Jambi, Indonesia. Didirikan pada 23 Maret 1963, di bawah kepemimpinan Kolonel M. Joesoef Singedekane sebagai ketua presidium, dan kemudian dipimpin oleh rektor pertamanya, Prof. Drs. H. Kemas Mohamad Saleh, pada tahun 1977. Rektor saat ini adalah Prof. Drs. H. Sutrisno, M.Sc., Ph.D</item>
+        <item>Manajemen Organisasi dipimpin oleh Eastyanda Putra Kesuma sebagai Ketua, dengan Muhammad Kevin Assydiqi sebagai Wakil Ketua. Tugas sekretaris diemban oleh Santa Aprilia Simanungkalit (Sekretaris 1), Jihan Rahman (Sekretaris 2), dan Hana Silvanov Rhamadani (Sekretaris 3). Morenita Aritonang dan Jessyca Sandra Yulina S mengelola keuangan sebagai Bendahara 1 dan Bendahara 2. Struktur ini bertujuan untuk mengoptimalkan kontribusi setiap anggota dalam mencapai tujuan organisasi.</item>
+        <item>Divisi DANUS, di bawah Bendahara HIMASI, fokus pada kewirausahaan di dalam organisasi. Ini berinovasi dengan memasarkan produk khusus kepada mahasiswa Sistem Informasi untuk meningkatkan pendapatan HIMASI. DANUS berkolaborasi dengan Divisi Mediasi untuk merancang dan memasarkan produk kreatif melalui IG SIStore (@sistore.unja).</item>
+        <item>Divisi Minat dan Bakat mengidentifikasi serta mengembangkan minat dan bakat mahasiswa Sistem Informasi, menyediakan platform untuk ekspresi mereka.</item>
+        <item>Divisi Mediasi menyebarkan informasi dengan desain kreatif, meliputi acara internal kampus dan kolaborasi dengan kampus lain. Divisi ini berkolaborasi dengan Divisi DANUS untuk menciptakan dan memasarkan produk inovatif.</item>
+        <item>Divisi PSDA mengembangkan bakat mahasiswa Sistem Informasi dan meningkatkan ekosistem Sistem Informasi.</item>
+        <item>Divisi Hubungan Masyarakat (HUMAS) membangun hubungan eksternal untuk HIMASI dan mendukung divisi lain dalam menjalankan program mereka.</item>
+        <item>Divisi Penelitian dan Teknologi mengembangkan keterampilan mahasiswa Sistem Informasi dan mempromosikan budaya ilmiah.</item>
+        <item>Divisi Sosial dan Keagamaan (SOSGAM) terlibat dalam kegiatan sosial dan keagamaan, mempromosikan keterlibatan masyarakat dan ketaatan beragama.</item>
+        <item>Program Sistem Informasi di Universitas Jambi mempersiapkan tenaga profesional di bidang ini.</item>
+        <item>Universitas Jambi (UNJA) adalah lembaga pendidikan tinggi negeri di Provinsi Jambi, Indonesia, didirikan pada 23 Maret 1963. Saat ini, Prof. Drs. H. Sutrisno, M.Sc., Ph.D., menjabat sebagai Rektornya.</item>
     </string-array>
 
     <integer-array name="organization_members">
@@ -128,4 +128,13 @@
 
     <!-- Teks Placeholder -->
     <string name="hello_text">Halo</string>
+    <string name="instagram">Instagram</string>
+    <string name="youtube">YouTube</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="about_page">Halaman Tentang</string>
+    <string name="share">Bagikan</string>
+
+    <string name="log_tag_detail_activity">AktivitasDetailLog</string>
+    <string name="share_chooser_title">Bagikan Detail Organisasi</string>
+    <string name="share_text_format">Lihat detail %1$s\'s details: %2$s</string>
 </resources>

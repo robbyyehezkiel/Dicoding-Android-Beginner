@@ -5,7 +5,6 @@
     <!-- Page Titles -->
     <string name="main_page_title">Main Page</string>
     <string name="about_page_title">About Page</string>
-    <string name="log_tag_detail_activity">DetailActivityLog</string>
     <string name="language">Change Language</string>
 
     <!-- Profile Information -->
@@ -16,7 +15,7 @@
     <string name="description">Image Description</string>
     <string name="photo_description">Item Photo</string>
     <string name="organization_description_hint">Organization Description</string>
-    <string name="social_media_title">Himasi Social Media</string>
+    <string name="social_media_title">HIMASI Social Media</string>
 
     <!-- Arrays -->
     <integer-array name="organization_ids">
@@ -35,13 +34,13 @@
     <string-array name="organization_names">
         <item>Organization Management</item>
         <item>Business Funds</item>
-        <item>Interest Talent</item>
+        <item>Interest and Talent</item>
         <item>Media Information</item>
         <item>Member Resources</item>
-        <item>Public Relation</item>
-        <item>Research Technology</item>
-        <item>Social Religion</item>
-        <item>Information System</item>
+        <item>Public Relations</item>
+        <item>Research and Technology</item>
+        <item>Social and Religion</item>
+        <item>Information Systems</item>
         <item>Jambi University</item>
     </string-array>
 
@@ -98,16 +97,16 @@
     </array>
 
     <string-array name="organization_descriptions">
-        <item>Organization Management is led by Eastyanda Putra Kesuma as the Chairman, assisted by Muhammad Kevin Assydiqi as the Vice Chairman. The secretarial duties are undertaken by Santa Aprilia Simanungkalit as Secretary 1, Jihan Rahman as Secretary 2, and Hana Silvanov Rhamadani as Secretary 3. Meanwhile, the organizations finances are managed by Morenita Aritonang as Treasurer 1 and Jessyca Sandra Yulina S as Treasurer 2. With this structure, it is expected that each member can contribute optimally to achieve the organizations goals.</item>
-        <item>The DANUS Division is the newest division under the auspices of the Treasurer within HIMASI. This division operates in the field of entrepreneurship within the association, continuously channeling its innovations by marketing products specifically to consumers, particularly Information System students, to supplement HIMASIs financial income. The DANUS Division also collaborates with the Mediation Division in planning creative products that will be marketed through the IG SIStore with the username "sistore.unja."</item>
-        <item>The Interest and Talent Division is dedicated to discovering, identifying, and cataloging the interests and talents of information system students. It serves as a platform for students to channel and express their interests and talents.</item>
-        <item>The Mediation Division operates in the field of disseminating information based on creative design, covering internal campus events and information resulting from collaborations with other campuses. In addition to spreading information about lectures, this division also collaborates with the Business Fund Division (DANUS) in designing creative products that can be sold by the DANUS division.</item>
-        <item>The PSDA Division is responsible for developing the interests and talents of members of the Information System. The PSDA Division is also tasked with creating a better ecosystem for the Information System by paying attention to the talents present in the information system.</item>
-        <item>The Public Relations Division, commonly known as the HUMAS Division, aims to build networks or relationships with external parties outside the membership and management of HIMASI. It also assists other divisions in implementing their respective programs and projects.</item>
-        <item>The Research and Technology Division is one of the divisions with the goal of developing the abilities of Information System students and providing a platform to help Information System students achieve excellence while fostering a scientific culture in the student community.</item>
-        <item>The Social and Religion Division (SOSGAM) operates in the fields of social and religion. In the social domain, it serves as a platform that deals with matters related to social interests, ranging from the scope of HIMASI management to the wider community. Meanwhile, in the religious field, it manifests as an expression of students sensitivity to the importance of religious obedience within an organization. This division oversees religious activities to shape the personality of students who are faithful and devout, both internally and externally.</item>
-        <item>The Information Systems study program is one of the undergraduate programs under the auspices of the Faculty of Science and Technology at the University of Jambi. This program is designed to meet the needs of skilled and professional personnel in the field of information systems.</item>
-        <item>Jambi University (UNJA) is a public higher education institution located in the province of Jambi, Indonesia. It was established on March 23, 1963, under the leadership of Colonel M. Joesoef Singedekane as the chairman of the presidium, and it was later led by its first rector, Prof. Drs. H. Kemas Mohamad Saleh, in 1977. The current rector is Prof. Drs. H. Sutrisno, M.Sc., Ph.D</item>
+        <item>Organization Management is led by Eastyanda Putra Kesuma as the Chairman, with Muhammad Kevin Assydiqi as the Vice Chairman. Secretarial duties are handled by Santa Aprilia Simanungkalit (Secretary 1), Jihan Rahman (Secretary 2), and Hana Silvanov Rhamadani (Secretary 3). Morenita Aritonang and Jessyca Sandra Yulina S manage finances as Treasurer 1 and Treasurer 2, respectively. This structure aims to optimize each member\'s contribution towards achieving the organization\'s goals.</item>
+        <item>The DANUS Division, under HIMASI\'s Treasurer, focuses on entrepreneurship within the association. It innovates by marketing products specifically to Information System students to bolster HIMASI\'s finances. DANUS collaborates with the Mediation Division to design and market creative products through the IG SIStore (@sistore.unja).</item>
+        <item>The Interest and Talent Division identifies and nurtures the interests and talents of Information System students, providing a platform for their expression.</item>
+        <item>The Mediation Division disseminates information using creative designs, covering internal campus events and collaborations with other campuses. It collaborates with the DANUS Division to create and market innovative products.</item>
+        <item>The PSDA Division develops the talents of Information System students and enhances the Information System\'s ecosystem.</item>
+        <item>The Public Relations Division (HUMAS) builds external relationships for HIMASI and supports other divisions in executing their programs.</item>
+        <item>The Research and Technology Division fosters the skills of Information System students and promotes a scientific culture.</item>
+        <item>The Social and Religion Division (SOSGAM) engages in social and religious activities, promoting community involvement and religious adherence.</item>
+        <item>The Information Systems program at Jambi University prepares skilled professionals in the field.</item>
+        <item>Jambi University (UNJA) is a public institution in Jambi Province, Indonesia, established on March 23, 1963. Prof. Drs. H. Sutrisno, M.Sc., Ph.D., currently serves as its Rector.</item>
     </string-array>
 
     <integer-array name="organization_members">
@@ -129,4 +128,13 @@
 
     <!-- Placeholder text -->
     <string name="hello_text">Hello</string>
+    <string name="instagram">Instagram</string>
+    <string name="youtube">YouTube</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="about_page">About Page</string>
+    <string name="share">Share</string>
+
+    <string name="log_tag_detail_activity">DetailActivityLog</string>
+    <string name="share_chooser_title">Share Organization Details</string>
+    <string name="share_text_format">Check out %1$s\'s details: %2$s</string>
 </resources>

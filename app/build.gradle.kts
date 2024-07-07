@@ -41,15 +41,17 @@ android {
 
 dependencies {
     // Define version numbers
-    val coreKtxVersion = "1.12.0"
-    val appCompatVersion = "1.6.1"
-    val materialVersion = "1.11.0"
+    val coreKtxVersion = "1.13.1"
+    val appCompatVersion = "1.7.0"
+    val materialVersion = "1.12.0"
     val constraintLayoutVersion = "2.1.4"
     val junitVersion = "4.13.2"
-    val testExtJUnitVersion = "1.1.5"
-    val espressoCoreVersion = "3.5.1"
+    val testExtJUnitVersion = "1.2.1"
+    val espressoCoreVersion = "3.6.1"
     val glideVersion = "4.16.0"
+    val lifecycleVersion = "2.8.3"
 
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycleVersion")
     // AndroidX`
     implementation("androidx.core:core-ktx:$coreKtxVersion")
     implementation("androidx.appcompat:appcompat:$appCompatVersion")

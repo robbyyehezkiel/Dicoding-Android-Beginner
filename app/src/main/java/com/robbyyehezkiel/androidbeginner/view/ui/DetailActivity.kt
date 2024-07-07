@@ -1,6 +1,5 @@
 package com.robbyyehezkiel.androidbeginner.view.ui
 
-import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
@@ -8,7 +7,9 @@ import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
+import com.google.android.material.snackbar.Snackbar
 import com.robbyyehezkiel.androidbeginner.R
+import com.robbyyehezkiel.androidbeginner.data.model.OrganizationDataHolder
 import com.robbyyehezkiel.androidbeginner.data.model.OrganizationInfo
 import com.robbyyehezkiel.androidbeginner.databinding.ActivityDetailBinding
 import com.robbyyehezkiel.androidbeginner.utils.loadImage
@@ -23,12 +24,15 @@ class DetailActivity : AppCompatActivity() {
         binding = ActivityDetailBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        organization = intent.getParcelableExtra(EXTRA_ORGANIZATION_DATA)
+        organization = OrganizationDataHolder.organization
         organization?.let {
             setupActionBar(it)
             setupUI(it)
             setupSocialMediaIcons()
-        } ?: logNoDataWarning()
+        } ?: run {
+            logNoDataWarning()
+            Snackbar.make(binding.root, "No data received", Snackbar.LENGTH_LONG).show()
+        }
     }
 
     private fun setupUI(organization: OrganizationInfo) {
@@ -100,27 +104,20 @@ class DetailActivity : AppCompatActivity() {
     }
 
     private fun shareOrganizationDetails(organization: OrganizationInfo) {
-        val shareText =
-            "Check out ${organization.organizationName}'s details: ${organization.description}"
+        val shareText = getString(
+            R.string.share_text_format,
+            organization.organizationName,
+            organization.description
+        )
         val intent = Intent(Intent.ACTION_SEND).apply {
             type = "text/plain"
             putExtra(Intent.EXTRA_TEXT, shareText)
         }
-        val chooser = Intent.createChooser(intent, "Share Organization Details")
+        val chooser = Intent.createChooser(intent, getString(R.string.share_chooser_title))
         if (chooser.resolveActivity(packageManager) != null) {
             startActivity(chooser)
         } else {
             Log.e(getString(R.string.log_tag_detail_activity), "No app to handle the share action.")
-        }
-    }
-
-    companion object {
-        const val EXTRA_ORGANIZATION_DATA = "EXTRA_ORGANIZATION_DATA"
-
-        fun newIntent(context: Context, data: OrganizationInfo): Intent {
-            return Intent(context, DetailActivity::class.java).apply {
-                putExtra(EXTRA_ORGANIZATION_DATA, data)
-            }
         }
     }
 }

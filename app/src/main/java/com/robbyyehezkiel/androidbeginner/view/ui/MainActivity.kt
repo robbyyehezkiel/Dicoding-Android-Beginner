@@ -1,16 +1,20 @@
-// MainActivity.kt
 package com.robbyyehezkiel.androidbeginner.view.ui
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.GridLayoutManager
+import com.google.android.material.snackbar.Snackbar
 import com.robbyyehezkiel.androidbeginner.R
+import com.robbyyehezkiel.androidbeginner.data.model.OrganizationDataHolder
 import com.robbyyehezkiel.androidbeginner.data.model.OrganizationInfo
 import com.robbyyehezkiel.androidbeginner.databinding.ActivityMainBinding
+import com.robbyyehezkiel.androidbeginner.utils.Status
 import com.robbyyehezkiel.androidbeginner.view.adapter.OrganizationListAdapter
 import com.robbyyehezkiel.androidbeginner.view.viewmodel.MainViewModel
 
@@ -49,15 +53,31 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun observeViewModel() {
-        viewModel.organizationList.observe(this) { organizations ->
-            organizations?.let {
-                organizationAdapter.setOrganizationList(it)
+        viewModel.organizationList.observe(this) { result ->
+            when (result.status) {
+                Status.SUCCESS -> {
+                    binding.progressBar.visibility = View.GONE
+                    result.data?.let {
+                        organizationAdapter.setOrganizationList(it)
+                    }
+                }
+
+                Status.ERROR -> {
+                    binding.progressBar.visibility = View.GONE
+                    Snackbar.make(binding.root, result.message ?: "Error", Snackbar.LENGTH_LONG)
+                        .show()
+                }
+
+                Status.LOADING -> {
+                    binding.progressBar.visibility = View.VISIBLE
+                }
             }
         }
     }
 
     private fun navigateToDetailActivity(data: OrganizationInfo) {
-        startActivity(DetailActivity.newIntent(this, data))
+        OrganizationDataHolder.organization = data
+        startActivity(Intent(this, DetailActivity::class.java))
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
